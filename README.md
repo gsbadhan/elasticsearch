@@ -1,1 +1,2 @@
-# This is example of spring with elastissearch.
+# Example of spring with elastic-search.
+
